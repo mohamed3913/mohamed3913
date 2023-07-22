@@ -12,10 +12,11 @@
 </p> 
 
 - 🏢 I'm a Data analyist and data science 
-- 🧑🏾‍🎓 I have Bachelors of business .
+- 🧑🏾‍🎓 I have Bachelors of business.
+- 🧑🏾‍🎓 I have a Google data analysis professional certificate 
 - 💬 passion to  ML & NN.
-- ⚡  Fun Fact: I'm love boxing and bodybuilding 💪🏽.
-- 👨‍💻 Check out my linked in  at https://www.linkedin.com/in/mohamed-mahmoud-773583234 to see some of the projects I've worked on.
+- ⚡  Fun Fact: I love boxing and bodybuilding 💪🏽.
+- 👨‍💻 Check out my linkedin at https://www.linkedin.com/in/mohamed-mahmoud-773583234 to see some of the projects I've worked on.
 
 
 ### Connect with Me :
