@@ -12,7 +12,8 @@
 </p> 
 
 - 🏢 I'm a Data analyist and data science 
-- 🧑🏾‍🎓 I have Bachelors of business.
+- 🧑🏾‍🎓 I have a Bachelor of Business. 
+- 🧑🏾‍🎓 I'm studying higher education in data science at Cairo University
 - 🧑🏾‍🎓 I have a Google data analysis professional certificate 
 - 💬 passion to  ML & NN.
 - ⚡  Fun Fact: I love boxing and bodybuilding 💪🏽.
